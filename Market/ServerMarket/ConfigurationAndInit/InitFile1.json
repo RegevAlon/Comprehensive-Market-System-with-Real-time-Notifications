@@ -1,0 +1,177 @@
+﻿{
+    "UseCases": [
+        {
+            "sessionid": "2",
+            "Username": "u2",
+            "Password": "p2",
+            "Tag": "Register"
+        },
+        {
+            "sessionid": "3",
+            "Username": "u3",
+            "Password": "p3",
+            "Tag": "Register"
+        },
+        {
+            "sessionid": "4",
+            "Username": "u4",
+            "Password": "p4",
+            "Tag": "Register"
+        },
+        {
+            "sessionid": "5",
+            "Username": "u5",
+            "Password": "p5",
+            "Tag": "Register"
+        },
+        {
+            "sessionid": "6",
+            "Username": "gal",
+            "Password": "123",
+            "Tag": "Register"
+        },
+        {
+            "sessionid": "2",
+            "Username": "u2",
+            "Password": "p2",
+            "Tag": "Login"
+        },
+        {
+            "sessionid": "3",
+            "Username": "u3",
+            "Password": "p3",
+            "Tag": "Login"
+        },
+        {
+            "sessionid": "4",
+            "Username": "u4",
+            "Password": "p4",
+            "Tag": "Login"
+        },
+        {
+            "sessionid": "5",
+            "Username": "u5",
+            "Password": "p5",
+            "Tag": "Login"
+        },
+
+        {
+            "sessionid": "2",
+            "ShopName": "shop1",
+            "Tag": "CreateShop"
+        },
+        {
+            "sessionid": "4",
+            "ShopName": "GalBestShop",
+            "Tag": "CreateShop"
+        },
+        {
+            "sessionid": "2",
+            "ShopId": "1",
+            "ProductName": "Bamba",
+            "SellType": "0",
+            "Description": "blablabla",
+            "Price": "30",
+            "Quantity": "20",
+            "Category": "Food",
+            "KeyWords": [ "bam", "salty snack" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "4",
+            "ShopId": "2",
+            "ProductName": "Sushi",
+            "SellType": "1",
+            "Description": "Asian food",
+            "Price": "50",
+            "Quantity": "30",
+            "Category": "Food",
+            "KeyWords": [ "Asian", "Food" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "4",
+            "ShopId": "2",
+            "ProductName": "Sandwich",
+            "SellType": "1",
+            "Description": "Food",
+            "Price": "20",
+            "Quantity": "25",
+            "Category": "Food",
+            "KeyWords": [ "Food" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "4",
+            "ShopId": "2",
+            "ProductName": "Pikachu",
+            "SellType": "1",
+            "Description": "Cute monster",
+            "Price": "20",
+            "Quantity": "25",
+            "Category": "Pockemon",
+            "KeyWords": [ "Monster", "Animal" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "4",
+            "ShopId": "2",
+            "ProductName": "Ferrari",
+            "SellType": "1",
+            "Description": "Fast car",
+            "Price": "250000000",
+            "Quantity": "5",
+            "Category": "Cars",
+            "KeyWords": [ "Car", "Fast", "Drive" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "2",
+            "ShopId": "1",
+            "AppointeeUserName": "u3",
+            "Permission": "255",
+            "Role": "3",
+            "Tag": "Appoint"
+        },
+        {
+            "sessionid": "3",
+            "ShopId": "1",
+            "ProductName": "Bisli",
+            "SellType": "0",
+            "Description": "Snack",
+            "Price": "35",
+            "Quantity": "10",
+            "Category": "Food",
+            "KeyWords": [ "TaamisLi", "salty snack" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "3",
+            "ShopId": "1",
+            "ProductName": "Milk",
+            "SellType": "1",
+            "Description": "Cow Milk",
+            "Price": "10",
+            "Quantity": "15",
+            "Category": "Food",
+            "KeyWords": [ "Drink", "Cheese" ],
+            "Tag": "AddProduct"
+        },
+        {
+            "sessionid": "4",
+            "Tag": "Logout"
+        },
+        {
+            "sessionid": "3",
+            "Tag": "Logout"
+        },
+        {
+            "sessionid": "2",
+            "Tag": "Logout"
+        },
+        {
+            "sessionid": "5",
+            "Tag": "Logout"
+        }
+    ]
+}

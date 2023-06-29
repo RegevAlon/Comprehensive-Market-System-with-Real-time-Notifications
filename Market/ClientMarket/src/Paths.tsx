@@ -1,0 +1,13 @@
+export const pathRegister: string = "/register";
+export const pathLogin: string = "/login";
+export const pathHome: string = "/";
+export const pathMarket: string = "/market";
+export const pathCart: string = "/cart";
+export const pathSearch: string = "/search";
+export const pathCheckout: string = "/checkout";
+export const pathShop: string = "/shop";
+export const pathProfile: string = "/profile";
+export const pathDiscount: string = "/discounts";
+export const pathPolicy: string = "/policies";
+export const pathNotifications: string = "/notifications";
+export const pathAdmin: string = "/admin";

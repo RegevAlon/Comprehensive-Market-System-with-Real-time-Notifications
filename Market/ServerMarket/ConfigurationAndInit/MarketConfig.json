@@ -1,0 +1,9 @@
+﻿{
+  "LocalDBMode": true,
+  "ShouldRunInitFile": true,
+  "InitFileName": "InitFile1.json",
+  "WebsocketServerPort": 7888,
+  "ExternalServicesActive": false,
+  "AdminUsername": "MasterAdmin",
+  "AdminPassword": "MasterAdmin"
+}

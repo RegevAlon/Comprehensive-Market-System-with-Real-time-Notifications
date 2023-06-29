@@ -1,0 +1,21 @@
+﻿{
+  "UseCases": [
+    {
+      "sessionid": "2",
+      "Username": "u2",
+      "Password": "password2",
+      "Tag": "Register"
+    },
+    {
+      "sessionid": "3",
+      "Username": "u3",
+      "Password": "password3",
+      "Tag": "Register"
+    },
+    {
+      "sessionid": "4",
+      "ShopName": "shop1",
+      "Tag": "CreateShop"
+    }
+  ]
+}
